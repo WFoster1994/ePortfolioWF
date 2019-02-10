@@ -74,7 +74,7 @@ namespace ePortfolioWF.Data
                         Name = "Writing, using the correct grammar, punctuation and spelling",
                         Category = SkillCategories.Communication,
                         Level = SkillLevels.High,
-                        Priority = SkillLevels.Low
+                        Priority = SkillLevels.Low                        
                     },
                    new Skill
                    {
